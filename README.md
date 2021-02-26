@@ -1,4 +1,4 @@
-# Spotify Prediction
+# Spotify Popularity Prediction
 ## Introduction 
 
 For our final project we worked on the [Spotify dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) from **Kaggle**. Our objective was to be able to predict the popularity of a song based on certain features from within the dataset. 
