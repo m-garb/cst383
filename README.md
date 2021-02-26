@@ -27,7 +27,7 @@ With **XGBRegressor**, we achieved an **accuracy of 55.26 percent**.
 
 With **SVR**, we achieved an **accuracy of 30 percent**. 
 
-The best resulting accuracy that we achieved was **61 percent**. **59 percent** with the **RandomForestRegressor algorithm**, which is considered good by the general standard.
+The best resulting accuracy that we achieved was **61 percent** with the **RandomForestRegressor algorithm**, which is considered good by the general standard.
 
 # Discussion
     
