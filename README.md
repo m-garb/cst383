@@ -42,3 +42,5 @@ Another reason that could play into this was the lack of information about the a
 Our project was on projecting song popularity using the **Spotify Dataset 1921-2020, 160k+ Tracks** dataset from **Kaggle**. In this project we trained Machine Learning algorithms on features in the dataset: acousticness, danceability, energy, instrumentalness, energy, liveness, loudness, speechiness, tempo, and valence we our predictors. We trained 5 different algorithms, but we were not able to achieve a particularly accurate algorithm for making predictions. 
 
 We speculate that this is because the dataset we used isn’t the best data to train off of in regards to popularity. Alternatively, song popularity could just be a difficult thing to predict.
+
+YouTube link: https://www.youtube.com/watch?v=u40WgurmWyM
