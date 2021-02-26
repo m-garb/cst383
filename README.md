@@ -19,7 +19,9 @@ We decided to drop **non-numeric columns**: artists, id, name, and release date.
 
 Our team explored various different methods of classification algorithms and had varying results in the accuracy of predictions. 
 
-With **KNNeighborsRegressor**, we achieved an **accuracy of 49.3 percent**. With Linear Regression, we achieved an accuracy of 44 percent. 
+With **KNNeighborsRegressor**, we achieved an **accuracy of 49.3 percent**. 
+
+With **Linear Regression**, we achieved an **accuracy of 44 percent**. 
 
 With **XGBRegressor**, we achieved an **accuracy of 55.26 percent**. 
 
